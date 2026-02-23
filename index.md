@@ -5,7 +5,7 @@ title: Crazy Journal
 
 欢迎来到 Crazy Journal！  
 
-这里将向你展示群众的智慧。
+文明发展绝对用不上的知识都在这里！
 
 最新一期：
 {% for post in site.posts %}
