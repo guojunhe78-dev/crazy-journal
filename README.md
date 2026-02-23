@@ -1,2 +1,2 @@
-# crazy-journal
-Crazy杂志期刊
+# AntiScience Journal
+AntiScience杂志期刊
